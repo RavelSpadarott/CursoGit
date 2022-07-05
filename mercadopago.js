@@ -1,3 +1,4 @@
-console.log(m)
+const devedor = devedor;
 
-const p = devedor;
+const p = pagamento;
+
